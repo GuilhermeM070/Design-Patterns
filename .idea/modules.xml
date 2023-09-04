@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chain of Responsibility/Chain of Responsibility.iml" filepath="$PROJECT_DIR$/Chain of Responsibility/Chain of Responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns - Java.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns - Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns Command/Patterns Command.iml" filepath="$PROJECT_DIR$/Patterns Command/Patterns Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns Command Handler/Patterns Command Handler.iml" filepath="$PROJECT_DIR$/Patterns Command Handler/Patterns Command Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns Observer/Patterns Observer.iml" filepath="$PROJECT_DIR$/Patterns Observer/Patterns Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns State/Patterns State.iml" filepath="$PROJECT_DIR$/Patterns State/Patterns State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns Strategy/Patterns Strategy.iml" filepath="$PROJECT_DIR$/Patterns Strategy/Patterns Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template Method/Template Method.iml" filepath="$PROJECT_DIR$/Template Method/Template Method.iml" />
+    </modules>
+  </component>
+</project>
